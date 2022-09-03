@@ -3,9 +3,7 @@ A React app that displays images from unsplash.com website using Rest API
 
 ## Create a unsplash account
 To display your own unsplash images, signup or login to your account in unsplash.com and locate your access and image keys from the developer section. 
-You will need to enter your access key in App.js file as below.
-`https://api.unsplash.com/photos/random?client_id=_your_access_key_&count=30`
-
+use it 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -14,11 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm install`
-To install and the modules in the app
-
 ### `npm start`
-To run the program in the browser
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
