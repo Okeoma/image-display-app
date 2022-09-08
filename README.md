@@ -23,6 +23,8 @@ To run the program in the browser
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+![Screenshot](https://github.com/Okeoma/image-display-app/blob/main/image%20app.png)
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
